@@ -63,7 +63,7 @@ A top notification bar based on Django project.
   <body>
       <div class="notification-top-bar-container"><div class="notification-top-bar"><p></p></div></div>
       ...
-      <script src="https://magicbox.bk.tencent.com/static_api/v3/assets/js/jquery-1.10.2.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
       <script src="{% static 'django_top_notify/js/notification-top-bar.js' %}"></script>
       <script>
           $(function () {
