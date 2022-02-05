@@ -78,4 +78,4 @@ A top notification bar based on Django project.
 ### Donations
 If this project helps you, please reward the author with a cup of coffee.（＾∀＾）
 
-![donate_qr_code.png](docs/pics/donate_qr_code.png)
+<img src="./docs/pics/donate_qr_code.png" width="200"/>
