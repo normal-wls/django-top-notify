@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include MANIFEST.in
+recursive-include django-top-notify/static *
+recursive-include docs *
+global-exclude __pycache__
+global-exclude *.py[co]
