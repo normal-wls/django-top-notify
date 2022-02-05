@@ -12,10 +12,15 @@ A top notification bar based on Django project.
 ### Demo
 - Publish or cancel
   Use Django Admin page to configure:
+
   ![configuration.png](docs/pics/configuration.png)
+
 - Hint top notification
+
   ![hint_top_notification.png](docs/pics/hint_top_notification.png)
+
 - Alert top notification
+
   ![alert_top_notification.png](docs/pics/alert_top_notification.png)
 
 ### Quick Start
