@@ -11,6 +11,7 @@ A top notification bar based on Django project.
 
 ### Demo
 - Publish or cancel
+
   Use Django Admin page to configure:
 
   ![configuration.png](docs/pics/configuration.png)
